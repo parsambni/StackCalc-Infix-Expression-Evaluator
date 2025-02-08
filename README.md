@@ -97,6 +97,4 @@ This project is open source and available under the MIT License. You are free to
 We hope StackCalc Infix Expression Evaluator inspires you to delve deeper into C++ programming and the fascinating world of compilers. If you have any questions or ideas, please reach out via our project repository or community channels.
 
 Happy coding!
-```
 
-Feel free to adjust any sections to suit your style or project specifics. Enjoy coding with StackCalc!
