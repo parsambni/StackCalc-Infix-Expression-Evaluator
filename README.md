@@ -1,6 +1,8 @@
 
+# StackCalc Infix Expression Evaluator
+
 ## Overview
-The Expression Evaluator is a C++ project that converts infix mathematical expressions (the way we normally write them) into postfix notation, and then evaluates the expression. This tool supports a variety of operations including basic arithmetic, exponentiation, factorials, and trigonometric functions. Whether you're a student exploring data structures or a hobbyist interested in custom calculators, this project offers a practical insight into how expressions are parsed and computed.
+StackCalc Infix Expression Evaluator is a C++ project that converts infix mathematical expressions (the way we normally write them) into postfix notation, and then evaluates the expression. This tool supports a variety of operations including basic arithmetic, exponentiation, factorials, and trigonometric functions. Whether you're a student exploring data structures or a hobbyist interested in custom calculators, this project offers a practical insight into how expressions are parsed and computed.
 
 ## Features
 - **Infix to Postfix Conversion:**  
@@ -34,18 +36,10 @@ The Expression Evaluator is a C++ project that converts infix mathematical expre
 
 ### Usage Instructions
 1. **Compile the Code:**  
-   Open a terminal in the directory containing the source file and run:
-   ```bash
-   g++ -std=c++11 -o ExpressionEvaluator ExpressionEvaluator.cpp
-   ```
-   This command compiles the code into an executable named `ExpressionEvaluator`.
+   Open a terminal in the directory containing the source file and run.
 
 2. **Run the Program:**  
-   Execute the program by running:
-   ```bash
-   ./ExpressionEvaluator
-   ```
-   The program will prompt you to enter an infix expression.
+   Execute the program by running.
 
 3. **Enter Your Expression:**  
    For example:
@@ -91,7 +85,7 @@ The Expression Evaluator is a C++ project that converts infix mathematical expre
   ```
 
 ## Why Use This Project?
-This project is not just a calculator—it’s a practical demonstration of data structures and algorithms in action. By exploring the conversion and evaluation process, you gain insights into how compilers and interpreters handle mathematical expressions. It’s a fantastic resource for both learning and expanding your programming skills.
+StackCalc Infix Expression Evaluator is more than just a calculator—it’s a practical demonstration of data structures and algorithms in action. By exploring the conversion and evaluation process, you gain insights into how compilers and interpreters handle mathematical expressions. It’s a fantastic resource for both learning and expanding your programming skills.
 
 ## Contributions and Feedback
 Your feedback is important! If you have suggestions, find bugs, or want to contribute new features (like additional functions or improved error handling), feel free to fork the repository and submit pull requests. Join the discussion and help make this tool even better.
@@ -100,9 +94,9 @@ Your feedback is important! If you have suggestions, find bugs, or want to contr
 This project is open source and available under the MIT License. You are free to use, modify, and distribute the code as long as you include the original license notice.
 
 ## Connect with the Community
-We hope this project inspires you to delve deeper into C++ programming and the fascinating world of compilers. If you have any questions or ideas, please reach out via our project repository or community channels.
+We hope StackCalc Infix Expression Evaluator inspires you to delve deeper into C++ programming and the fascinating world of compilers. If you have any questions or ideas, please reach out via our project repository or community channels.
 
 Happy coding!
 ```
 
-Simply copy the entire content above and paste it into your README file. Enjoy!
+Feel free to adjust any sections to suit your style or project specifics. Enjoy coding with StackCalc!
